@@ -10,12 +10,14 @@ Gives about *90-92% accuracy manually evaluated on 300 images*
 - Extract identifiable information into text
 
 <center><img src="https://github.com/pdtlong/pdtlong.github.io/blob/main/images/ocr.gif" width="550"/></center>
+
 ## Libraries to run the model:
 - Python 3.7
 - pytesseract
 - opencv2
 - matplotlib
 - numpy
+- 
 ---
 ### How to run?
- ### Open jupyter file Test_4mat.ipynb
+Open jupyter file Test_4mat.ipynb
