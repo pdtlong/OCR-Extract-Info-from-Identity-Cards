@@ -17,7 +17,7 @@ Gives about *90-92% accuracy manually evaluated on 300 images*
 - opencv2
 - matplotlib
 - numpy
-- 
+
 ---
 ### How to run?
 Open jupyter file Test_4mat.ipynb
