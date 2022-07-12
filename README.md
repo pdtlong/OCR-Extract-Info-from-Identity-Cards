@@ -1,5 +1,5 @@
 # OCR-Extract-Info-from-Identity-Cards
-This is an integrated system of **advanced image processing methods in image preprocessing** and the application of ** Tesseract (Open Source OCR Engine)**.
+This is an integrated system of **advanced image processing methods in image preprocessing** and the application of **Tesseract (Open Source OCR Engine)**.
 Gives about *90-92% accuracy manually evaluated on 300 images*
 
 ---
